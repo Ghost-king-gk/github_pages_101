@@ -1,2 +1,8 @@
 # github_pages_101
-Lmao
+GitHub Pages Exercise
+====================
+Involves
+* git
+* GitHub
+* SSH
+
